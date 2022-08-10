@@ -46,15 +46,10 @@ const feedbackEl = document.getElementById('feedback');
 
 function startQuiz() {
 	// hide start screen
-
 	// un-hide questions section
-
 	// start timer
-
 	// show starting time
-
 	// get first question
-	getQuestion();
 }
 
 function getQuestion() {
